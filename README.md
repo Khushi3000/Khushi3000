@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khushi3000
 - 👀 I’m interested in java, Python, SQL, Bi tools
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
