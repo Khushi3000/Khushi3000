@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushi3000
-- 👀 I’m interested in java, Python, SQL, Bi tools
+- 👀 I’m interested in java, Python, SQL, BI tools
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
