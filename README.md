@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Khushi3000
-- 👀 I’m interested in java, Python, SQL, BI tools
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Azure Cloud, SQL, BI Tools, Java, Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
